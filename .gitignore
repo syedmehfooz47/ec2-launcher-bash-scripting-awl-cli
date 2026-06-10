@@ -1,0 +1,24 @@
+# AWS credentials and config (NEVER commit these)
+.env
+!.env.example
+
+# AWS key pair files
+*.pem
+*.ppk
+
+# Temporary AWS CLI install files
+awscliv2.zip
+aws/
+
+# macOS
+.DS_Store
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
