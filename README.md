@@ -118,6 +118,12 @@ Default region name [None]: us-east-2
 Default output format [None]: json
 ```
 
+<div align="center">
+
+<img src="Assets/aws_configure.png" alt="Tomato Food Delivery Banner" width="65%" style="border-radius: 12px;" />
+</div>
+
+
 > **Tip:** You can also deliver temporary credentials using your AWS Console session:
 > ```bash
 > aws login
